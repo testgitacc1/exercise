@@ -1,0 +1,3 @@
+This file contains some useful links to git pages:
+-https://git-scm.com/documentation
+-http://stackoverflow.com/questions/5884784/how-to-pull-remote-branch-from-somebody-elses-repo
