@@ -1,1 +1,2 @@
-File created from petar-v-branch, but not merged
+File created from petar-v-branch
+Resolved a conflict
