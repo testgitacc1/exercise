@@ -1,2 +1,2 @@
 File created from petar-v-branch
-Resolved conflict
+Resolved a conflict
