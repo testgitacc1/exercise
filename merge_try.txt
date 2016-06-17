@@ -1,4 +1,1 @@
 My commits are totally pointless.
-<<<<<<< HEAD
-Let's try some conflict there.
-=======
