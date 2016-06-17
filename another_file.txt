@@ -4,6 +4,7 @@ how to commit
 new files in the branch
 
 I think we should add header here!
+It is not neccessary.
 
 I edited the content of the file.
 Edit from Pesho.
