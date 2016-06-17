@@ -1,8 +1,9 @@
 This is just another file
 to illustrate
 how to commit
-new files		in the branch
+new files in the branch
 
 I edited the content of the file.
 Edit from Pesho.
 Edit from Mih.
+Too many whitespaces.
